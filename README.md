@@ -1,0 +1,1 @@
+# Fair-Multivariate-Addaptive-Regression-Spline
